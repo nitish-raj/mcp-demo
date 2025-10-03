@@ -1,0 +1,6 @@
+dotenv
+mcp
+win32gui
+win32con
+win32api
+pywinauto
