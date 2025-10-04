@@ -1,8 +1,0 @@
-dotenv
-mcp
-pywin32>=311; platform_system == "Windows"
-pywinauto
-win32-gui-utils
-pillow
-google-api-python-client
-google-genai
